@@ -1,0 +1,16 @@
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\bin\Debug\net5.0\numeral_romano.exe
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\bin\Debug\net5.0\numeral_romano.deps.json
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\bin\Debug\net5.0\numeral_romano.runtimeconfig.json
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\bin\Debug\net5.0\numeral_romano.runtimeconfig.dev.json
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\bin\Debug\net5.0\numeral_romano.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\bin\Debug\net5.0\ref\numeral_romano.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\bin\Debug\net5.0\numeral_romano.pdb
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\obj\Debug\net5.0\numeral_romano.csproj.AssemblyReference.cache
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\obj\Debug\net5.0\numeral_romano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\obj\Debug\net5.0\numeral_romano.AssemblyInfoInputs.cache
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\obj\Debug\net5.0\numeral_romano.AssemblyInfo.cs
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\obj\Debug\net5.0\numeral_romano.csproj.CoreCompileInputs.cache
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\obj\Debug\net5.0\numeral_romano.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\obj\Debug\net5.0\ref\numeral_romano.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\obj\Debug\net5.0\numeral_romano.pdb
+C:\Users\Giuliano VB\Desktop\Github\TDD\numeral_romano\obj\Debug\net5.0\numeral_romano.genruntimeconfig.cache

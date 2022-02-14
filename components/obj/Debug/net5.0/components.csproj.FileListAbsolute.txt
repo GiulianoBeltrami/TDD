@@ -1,0 +1,16 @@
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\obj\Debug\net5.0\components.csproj.AssemblyReference.cache
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\obj\Debug\net5.0\components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\obj\Debug\net5.0\components.AssemblyInfoInputs.cache
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\obj\Debug\net5.0\components.AssemblyInfo.cs
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\obj\Debug\net5.0\components.csproj.CoreCompileInputs.cache
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\bin\Debug\net5.0\components.exe
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\bin\Debug\net5.0\components.deps.json
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\bin\Debug\net5.0\components.runtimeconfig.json
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\bin\Debug\net5.0\components.runtimeconfig.dev.json
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\bin\Debug\net5.0\components.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\bin\Debug\net5.0\ref\components.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\bin\Debug\net5.0\components.pdb
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\obj\Debug\net5.0\components.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\obj\Debug\net5.0\ref\components.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\obj\Debug\net5.0\components.pdb
+C:\Users\Giuliano VB\Desktop\Github\TDD\components\obj\Debug\net5.0\components.genruntimeconfig.cache
