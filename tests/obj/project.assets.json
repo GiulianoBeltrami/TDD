@@ -1671,14 +1671,14 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "CarrinhoDeCompras/1.0.0": {
+      "carrinho_de_compras/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/CarrinhoDeCompras.dll": {}
+          "bin/placeholder/carrinho_de_compras.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CarrinhoDeCompras.dll": {}
+          "bin/placeholder/carrinho_de_compras.dll": {}
         }
       },
       "numeral_romano/1.0.0": {
@@ -5927,10 +5927,10 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "CarrinhoDeCompras/1.0.0": {
+    "carrinho_de_compras/1.0.0": {
       "type": "project",
-      "path": "../components/CarrinhoDeCompras.csproj",
-      "msbuildProject": "../components/CarrinhoDeCompras.csproj"
+      "path": "../carrinho_de_compras/carrinho_de_compras.csproj",
+      "msbuildProject": "../carrinho_de_compras/carrinho_de_compras.csproj"
     },
     "numeral_romano/1.0.0": {
       "type": "project",
@@ -5940,8 +5940,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "CarrinhoDeCompras >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
+      "carrinho_de_compras >= 1.0.0",
       "coverlet.collector >= 3.0.2",
       "numeral_romano >= 1.0.0",
       "xunit >= 2.4.1",
@@ -5975,8 +5975,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Giuliano VB\\Desktop\\Github\\TDD\\components\\CarrinhoDeCompras.csproj": {
-              "projectPath": "C:\\Users\\Giuliano VB\\Desktop\\Github\\TDD\\components\\CarrinhoDeCompras.csproj"
+            "C:\\Users\\Giuliano VB\\Desktop\\Github\\TDD\\carrinho_de_compras\\carrinho_de_compras.csproj": {
+              "projectPath": "C:\\Users\\Giuliano VB\\Desktop\\Github\\TDD\\carrinho_de_compras\\carrinho_de_compras.csproj"
             },
             "C:\\Users\\Giuliano VB\\Desktop\\Github\\TDD\\numeral_romano\\numeral_romano.csproj": {
               "projectPath": "C:\\Users\\Giuliano VB\\Desktop\\Github\\TDD\\numeral_romano\\numeral_romano.csproj"

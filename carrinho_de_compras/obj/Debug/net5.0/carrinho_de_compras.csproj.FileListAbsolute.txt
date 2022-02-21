@@ -1,0 +1,16 @@
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\bin\Debug\net5.0\carrinho_de_compras.exe
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\bin\Debug\net5.0\carrinho_de_compras.deps.json
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\bin\Debug\net5.0\carrinho_de_compras.runtimeconfig.json
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\bin\Debug\net5.0\carrinho_de_compras.runtimeconfig.dev.json
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\bin\Debug\net5.0\carrinho_de_compras.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\bin\Debug\net5.0\ref\carrinho_de_compras.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\bin\Debug\net5.0\carrinho_de_compras.pdb
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\obj\Debug\net5.0\carrinho_de_compras.csproj.AssemblyReference.cache
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\obj\Debug\net5.0\carrinho_de_compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\obj\Debug\net5.0\carrinho_de_compras.AssemblyInfoInputs.cache
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\obj\Debug\net5.0\carrinho_de_compras.AssemblyInfo.cs
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\obj\Debug\net5.0\carrinho_de_compras.csproj.CoreCompileInputs.cache
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\obj\Debug\net5.0\carrinho_de_compras.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\obj\Debug\net5.0\ref\carrinho_de_compras.dll
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\obj\Debug\net5.0\carrinho_de_compras.pdb
+C:\Users\Giuliano VB\Desktop\Github\TDD\carrinho_de_compras\obj\Debug\net5.0\carrinho_de_compras.genruntimeconfig.cache

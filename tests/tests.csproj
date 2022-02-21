@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\components\CarrinhoDeCompras.csproj" />
+    <ProjectReference Include="..\carrinho_de_compras\carrinho_de_compras.csproj" />
     <ProjectReference Include="..\numeral_romano\numeral_romano.csproj" />
   </ItemGroup>
 
